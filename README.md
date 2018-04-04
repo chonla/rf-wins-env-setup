@@ -1,0 +1,1 @@
+See [setup guide](GUIDE.md) for detail.
