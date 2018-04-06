@@ -38,7 +38,7 @@ It will be easier if you use scoop or chocolatey to install packages. This guide
 
     ![](img/pip-install.png)
 
-2. You can check if robot framework is now installed by running `robot -V`, robot framework version should be displayed.
+2. You can check if robot framework is now installed by running `robot --version`, robot framework version should be displayed.
 
     ![](img/robot-version.png)
 
